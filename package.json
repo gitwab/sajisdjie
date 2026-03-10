@@ -1,0 +1,15 @@
+{
+  "name": "rosnitch",
+  "version": "1.0.0",
+  "description": "Roblox account intelligence Discord bot",
+  "private": true,
+  "scripts": {
+    "register": "node register.js"
+  },
+  "dependencies": {
+    "discord-interactions": "^3.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
